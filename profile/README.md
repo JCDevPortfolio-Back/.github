@@ -9,6 +9,7 @@
   🌐 <a href="https://javiercardona.dev">javiercardona.dev</a>
   &nbsp;·&nbsp; API <code>api.javiercardona.dev</code>
   &nbsp;·&nbsp; 📚 <a href="https://storybook.javiercardona.dev">Storybook</a>
+  &nbsp;·&nbsp; ⚙️ Backend: <a href="https://github.com/JCDevPortfolio-Back">JCDevPortfolio-Back</a>
 </p>
 
 ---
